@@ -52,7 +52,5 @@ Check the response from the API, and the server console will display logs indica
 
 Note: The provided example assumes that the FastAPI service is running locally on http://127.0.0.1:8000. If you deploy the service elsewhere, adjust the URL accordingly.
 
-Sample Check:
 
-![FastAPI-Swagger-UI](https://github.com/alen0577/largest_rectangle/assets/96831425/47816822-effa-4f53-84d7-7383155753ff)
 
